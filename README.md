@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/4jGB54Z.png)
+![](https://i.imgur.com/hYdDOFg.png)
 > 變更說話的速度及音調
